@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enis Gjini</h1>
 <h3 align="center">A passionate Full Stack Developer from Kosovo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enisgjini&label=Profile%20views&color=009dff&style=plastic" alt="enisgjini" /> </p>
-
-<p align="left"> <a href="https://twitter.com/egjini17" target="blank"><img src="https://img.shields.io/twitter/follow/egjini17?logo=twitter&style=for-the-badge" alt="egjini17" /></a> </p>
-
 - 🔭 I’m currently working on Software Development **Point-Of-Sale**
 
 - 🌱 I’m currently learning **Flutter and SQLite**
