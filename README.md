@@ -1,105 +1,127 @@
-<h1 align="center">Hi 👋, I'm Enis Gjini</h1>
-<h3 align="center">A passionate Full Stack Developer from Kosovo</h3>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🔭 I’m currently working on Software Development **Point-Of-Sale**
+### <div align="center">I'm Enis, a full-stack developer 👨‍💻</div>  
+  
 
-- 🌱 I’m currently learning **Flutter and SQLite**
+- 🔭 I’m currently working on Point Of Sale Software  
+  
 
-- 👨‍💻 All of my projects are available at [enisgjini.netlify.app](enisgjini.netlify.app)
+- 🌱 I’m currently learning Flutter and SQLite  
+  
 
-- 📝 I regularly write articles on [https://medium.com/@egjini17](https://medium.com/@egjini17)
+- ❓ Ask me about anything related to Software Development  
+  
 
-- 💬 Ask me about **HTML , CSS , JavaScript , JQuery , Bootstrap , Wordpress , Elementor , PHP , Woocommerce and C#**
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-- 📫 How to reach me **egjini17@gmail.com**
+<br/>  
 
-- 📄 Know about my experiences [https://my.indeed.com/api/3/profile/files/resume/mostRecent](https://my.indeed.com/api/3/profile/files/resume/mostRecent)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/enis-gjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="enis-gjini" height="30" width="40" /></a>
-<a href="https://dev.to/enisgjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="enisgjini" height="30" width="40" /></a>
-<a href="https://twitter.com/egjini17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egjini17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/enis-gjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enis-gjini" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14132222/enisgjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14132222/enisgjini" height="30" width="40" /></a>
-<a href="https://fb.com/enisgjini2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enisgjini2003" height="30" width="40" /></a>
-<a href="https://instagram.com/gjini.enis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gjini.enis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/enisgjini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enisgjini" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- HTML -->
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a>
-        <!-- CSS -->
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a>
-        <!-- JavaScript -->
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a>
-        <!-- Bootstrap -->
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a>
-        <!-- PHP -->
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-                width="40" height="40" /> </a>
-        <!-- Git -->
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <!-- Heroku -->
-        <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-        </a>
-        <!-- C# -->
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="40" height="40" /> </a>
-        <!-- Dart -->
-        <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-        </a>
-        <!-- Flutter -->
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-                height="40" /> </a>
-        <!-- MySQL -->
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a>
-        <!-- NodeJs -->
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a>
-        <!-- Firebase -->
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                height="40" /> </a>
-        <!-- Figma -->
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-        <!-- Photoshop -->
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" /> </a>
-        <!-- XD -->
-        <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-        <!-- Arduino -->
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-                src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enisgjini&show_icons=true&locale=en&layout=compact" alt="enisgjini" /></p>
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enisgjini&show_icons=true&locale=en" alt="enisgjini" /></p>
+</td><td valign="top" width="33%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enisgjini&" alt="enisgjini" /></p>
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Graphic Design  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/enisgjini" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/enis-gjini" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/enisgjini2003" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/gjini.enis" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/enis-gjini" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/14132222/enisgjini" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/enisgjini" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EnisGjini&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
