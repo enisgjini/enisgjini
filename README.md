@@ -100,17 +100,4 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=enisgjini&show_icons=true&count_private=true&hide_border=false" align="left" style="width: 100%" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjini&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sxoopmmkporwy7wtvflxo7e2ea&cover_image=true&theme=default" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enisgjini)](https://git.io/streak-stats)
