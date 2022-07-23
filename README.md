@@ -107,5 +107,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enisgjini19)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.daily.dev/enisgjini19"><img src="https://api.daily.dev/devcards/adc6e57dff1742f0af3959bef3f0c53a.png?r=q65" width="400" alt="Enis Gjini's Dev Card"/></a>
 </div>
 
